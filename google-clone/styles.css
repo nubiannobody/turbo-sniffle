@@ -1,15 +1,9 @@
-body {
- color: blueviolet;
- font-size: 30px;
- font-weight: bold;   
- text-align: center;
- margin-top: 40px;
+div {
+    margin-top: 100px;
 }
-
 img {
     width: 300px;  
     display: block;
-    margin-top: 40px;
 }
 
 input {
