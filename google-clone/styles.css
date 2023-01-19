@@ -1,4 +1,4 @@
-div {
+.main {
     margin-top: 100px;
 }
 img {
@@ -13,4 +13,12 @@ input {
 
 button {
 
+}
+
+.search {
+
+}
+
+.lucky {
+    
 }
