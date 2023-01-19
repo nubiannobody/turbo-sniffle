@@ -1,25 +1,15 @@
 .main {
     margin-top: 100px;
 }
-img {
+
+.logo-img {
     width: 300px;  
     display: block;
 }
 
-input {
+.searchbar{
     width: 400px;
     display: block
-}
-
-button {
-
-}
-.google {
-
-}
-
-.searchbar{
-    
 }
 
 .search {
